@@ -1,0 +1,17 @@
+{
+  "name": "zoo-git-workshop",
+  "version": "1.0.0",
+  "description": "🦁 🦓 🦄",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bear": "^2.0.20",
+    "forest": "^0.21.2",
+    "honey-rn": "^1.0.1",
+    "tree": "^0.1.3"
+  }
+}
